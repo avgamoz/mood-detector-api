@@ -1,4 +1,4 @@
-# Emotion detection using deep learning
+# Mood detector api
 
 ## Introduction
 
@@ -11,13 +11,11 @@ This project aims to classify the emotion on a person's face into one of **seven
 
 ## Basic Usage
 
-The repository is currently compatible with `tensorflow-2.0` and makes use of the Keras API using the `tensorflow.keras` library.
-
 * First, clone the repository and enter the folder
 
 ```bash
-git clone https://github.com/atulapra/Emotion-detection.git
-cd Emotion-detection
+git clone https://github.com/avgamoz/mood-detector-api.git
+cd mood-detector-api
 ```
 
 * Download the FER-2013 dataset inside the `src` folder.
@@ -65,7 +63,7 @@ python emotions.py --mode display
 
 ## References
 
-* "Challenges in Representation Learning: A report on three machine learning contests." I Goodfellow, D Erhan, PL Carrier, A Courville, M Mirza, B
+* I Goodfellow, D Erhan, PL Carrier, A Courville, M Mirza, B
    Hamner, W Cukierski, Y Tang, DH Lee, Y Zhou, C Ramaiah, F Feng, R Li,  
    X Wang, D Athanasakis, J Shawe-Taylor, M Milakov, J Park, R Ionescu,
    M Popescu, C Grozea, J Bergstra, J Xie, L Romaszko, B Xu, Z Chuang, and
