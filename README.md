@@ -1,8 +1,8 @@
 # Mood detector api
 
-## Introduction
+## Description
 
-This project aims to classify the emotion on a person's face into one of **seven categories**, using deep convolutional neural networks. The model is trained on the **FER-2013** dataset which was published on International Conference on Machine Learning (ICML). This dataset consists of 35887 grayscale, 48x48 sized face images with **seven emotions** - angry, disgusted, fearful, happy, neutral, sad and surprised.
+The project is all about using the API(python.cmd) to interact freely with some datasets in other to use them prepare them for the designing of web-friendly application. The current progress as regards this project is the API view of how the pictures(dataset) will be well arranged(test and train) so that it will be easy to predict the different mood that depict different situation. And the best way to describe it to the user. This project aims to classify the emotion on a person's face into one of **seven categories**, using deep convolutional neural networks. The model is trained on the **FER-2013** dataset which was published on International Conference on Machine Learning (ICML). This dataset consists of 35887 grayscale, 48x48 sized face images with **seven emotions** - angry, disgusted, fearful, happy, neutral, sad and surprised.
 
 ## Dependencies
 
